@@ -2,6 +2,7 @@
 
 ## Overview
 This project simulates the apparent motion of the Sun over the course of a full year and reproduces the **solar analemma**. The model computes the Sun’s daily altitude and azimuth for a fixed geographic location and projects the resulting shadow path onto the ground at solar noon.
+
 ---
 
 ## Physical Model
